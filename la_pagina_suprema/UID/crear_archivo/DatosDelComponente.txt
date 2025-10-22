@@ -1,0 +1,14 @@
+El nombre del producto: 16 GB de RAM
+El tipo del hardware: ram
+¿El producto es antuguo? si
+El precio del producto: 20€
+El comentario del producto: guardar archivo
+------------------------------------------------
+	--------
+El nombre del producto: Survev
+El tipo del hardware: ram
+¿El producto es antuguo? si
+El precio del producto: 20€
+El comentario del producto: asdasdas
+------------------------------------------------
+	--------
